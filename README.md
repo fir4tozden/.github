@@ -8,7 +8,7 @@ The first language I started was JavaScript, I still continue with this language
 ### My Last Project 💻
 <img src="https://i.ibb.co/mbJC8yX/unknown.png" width="512px"/>
 Fast and advanced, document based and key-value based NoSQL database that able to work as it is installed.
-(JUMP PROJECT)[https://npmjs.com/package/peak.db]
+[JUMP PROJECT](https://npmjs.com/package/peak.db)
 
 ### These are my GitHub stats 📈
 <img src="https://github-readme-stats.vercel.app/api?username=fir4tozden&show_icons=true&theme=tokyonight" width="512px"/>
