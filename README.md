@@ -6,7 +6,7 @@ I've been interested in software since I was 11 years old. I am currently 15 yea
 
 The first language I started was JavaScript, I still continue with this language. Because this language is for me!
 
-### This is my last project 💻
+### This is our last project 💻
 
 <img src="https://i.ibb.co/mbJC8yX/unknown.png" width="256px"/>
 
