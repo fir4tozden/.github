@@ -10,7 +10,7 @@ The first language I started was JavaScript, I still continue with this language
 
 <img src="https://i.ibb.co/mbJC8yX/unknown.png" width="256px"/>
 
-[`JUMP PROJECT`](https://npmjs.com/package/peak.db)
+[`JUMP PROJECT`](https://npmjs.com/package/peakdb)
 
 Fast and advanced, document based and key-value based NoSQL database that able to work as it is installed.
 
