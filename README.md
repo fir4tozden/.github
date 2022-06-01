@@ -21,3 +21,5 @@ Fast and advanced, document based and key-value based NoSQL database that able t
 ### These are the languages I use the most 📊
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fir4tozden&layout=compact&theme=tokyonight" width="512px"/>
+
+<img src="https://komarev.com/ghpvc/?username=asdasdasdas&label=Profile Views" width="512px"/>
