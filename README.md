@@ -1,4 +1,4 @@
-# Hi, I'm Fırat Özden! <img src="https://i.ibb.co/DRcs4Y6/unknown.gif" width="30px"/>
+# Hi, I'm Fırat Özden! <img src="https://komarev.com/ghpvc/?username=fir4tozden&label=Profile%20Views" width="48px"/>
 
 ### About Me 😀
 
