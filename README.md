@@ -1,7 +1,5 @@
 # Hi, I'm Fırat Özden! <img src="https://i.ibb.co/DRcs4Y6/unknown.gif" width="30px"/>
 
-<img src="https://komarev.com/ghpvc/?username=fir4tozden&label=Profile%20Views" width="48px"/>
-
 ### About Me 😀
 
 I've been interested in software since I was 11 years old. I am currently 15 years old.
