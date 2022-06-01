@@ -1,5 +1,7 @@
 # Hi, I'm Fırat Özden! <img src="https://i.ibb.co/DRcs4Y6/unknown.gif" width="30px"/>
 
+<img src="https://komarev.com/ghpvc/?username=fir4tozden&label=Profile%20Views" width="16px"/>
+
 ### About Me 😀
 
 I've been interested in software since I was 11 years old. I am currently 15 years old.
@@ -21,5 +23,3 @@ Fast and advanced, document based and key-value based NoSQL database that able t
 ### These are the languages I use the most 📊
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fir4tozden&layout=compact&theme=tokyonight" width="512px"/>
-
-<img src="https://komarev.com/ghpvc/?username=asdasdasdas&label=Profile Views" width="512px"/>
