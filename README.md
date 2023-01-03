@@ -12,7 +12,7 @@ The first language I started was JavaScript, I still continue with this language
 
 [`JUMP PROJECT`](https://npmjs.com/package/peakdb)
 
-Fast and advanced, document based and key-value based NoSQL database that able to work as it is installed.
+Fast and advanced, document-based and key-value-based NoSQL database.
 
 ### These are my GitHub stats 📈
 
