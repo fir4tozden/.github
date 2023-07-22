@@ -6,6 +6,8 @@ I've been interested in software since I was 11 years old. I am currently 17 yea
 
 The first language I started was JavaScript, I still continue with this language. Because this language is for me!
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/586957794645901342)](https://discord.com/users/586957794645901342)
+
 ### This is our last project 💻
 
 <img src="https://i.ibb.co/mbJC8yX/unknown.png" width="256px"/>
