@@ -10,11 +10,11 @@ The first language I started was JavaScript, I still continue with this language
 
 ### This is our last project 💻
 
-<img src="https://i.ibb.co/mbJC8yX/unknown.png" width="256px"/>
+<img src="https://i.ibb.co/wh9kNmsD/unknown.png" width="256px"/>
 
-[`JUMP PROJECT`](https://npmjs.com/package/peakdb)
+[`JUMP PROJECT`](https://npmjs.com/package/uuniq)
 
-Fast and advanced, document-based and key-value-based NoSQL database.
+Unique IDs that will last for thousands of years.
 
 ### These are my GitHub stats 📈
 
