@@ -1,4 +1,4 @@
-# Hi, I'm Fırat Özden! <img src="https://komarev.com/ghpvc/?username=fir4tozden&label=Profile%20Views"/>
+# Hi, I'm Fırat Özden! <img src="https://komarev.com/ghpvc?username=fir4tozden&label=Profile%20Views"/>
 
 ### About Me 😀
 
@@ -14,7 +14,7 @@ The first language I started was JavaScript, I still continue with this language
 
 [`JUMP PROJECT`](https://npmjs.com/package/uuniq)
 
-Unique IDs that will last for thousands of years.
+Unique Snowflake IDs and Symbolic IDs that can be generated for thousands of years.
 
 ### These are my GitHub stats 📈
 
