@@ -10,7 +10,7 @@ The first language I started was JavaScript, I still continue with this language
 
 ### This is our last project 💻
 
-<img src="https://i.ibb.co/wh9kNmsD/unknown.png" width="256px"/>
+<img src="https://i.ibb.co/GvJ1ZRF0/unknown.png" width="256px"/>
 
 [`JUMP PROJECT`](https://npmjs.com/package/uuniq)
 
