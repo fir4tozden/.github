@@ -14,11 +14,11 @@ The first language I started was JavaScript, I still continue with this language
 
 ### This is our last project 💻
 
-<img src="https://i.ibb.co/GvJ1ZRF0/unknown.png" width="256px"/>
+<img src="https://i.ibb.co/B5bQXHSM/unknown.png" width="250px"/>
 
-[`JUMP PROJECT`](https://npmjs.com/package/uuniq)
+[`JUMP PROJECT`](https://npmjs.com/package/yuppi)
 
-Unique Snowflake IDs and Symbolic IDs that can be generated for thousands of years.
+Schemas that can be converted to Yup and JSON Schema.
 
 ### These are my GitHub stats 📈
 
