@@ -1,6 +1,6 @@
 # Hi, I'm Fırat Özden! <img src="https://komarev.com/ghpvc?username=fir4tozden&label=Profile%20Views"/>
 
-### About Me 😀
+### About me 🪧
 
 I've been interested in software since I was 11 years old. I am currently 19 years old.
 
