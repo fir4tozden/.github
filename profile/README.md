@@ -12,13 +12,6 @@ The first language I started was JavaScript, I still continue with this language
 
 [![Skills](https://skillicons.dev/icons?i=ts,js,bun,nodejs,npm,elysia,express,prisma,mongodb,redis,rabbitmq,docker,firebase,cloudflare,nextjs,react,tailwind,github,githubactions,git&perline=10&theme=dark)](https://skillicons.dev)
 
-### There is my contributions 🧩
-
-- [Dokploy](https://github.com/Dokploy/dokploy/pulls?q=is%3Amerged+author%3Afir4tozden)
-- [Dokploy](https://github.com/Dokploy/website/pulls?q=is%3Amerged+author%3Afir4tozden)
-- [Eris](https://github.com/abalabahaha/eris/pulls?q=is%3Amerged+author%3Afir4tozden)
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Amerged+author%3Afir4tozden)
-
 ### This is our last project 💻
 
 <img src="https://i.ibb.co/B5bQXHSM/unknown.png" width="250px"/>
