@@ -14,7 +14,7 @@ The first language I started was JavaScript, I still continue with this language
 
 ### This is our last project 💻
 
-<img src="https://i.ibb.co/B5bQXHSM/unknown.png" width="250px"/>
+<img src="https://raw.githubusercontent.com/keift/yuppi/main/assets/logo.png" width="250px"/>
 
 [`JUMP PROJECT`](https://npmjs.com/package/yuppi)
 
