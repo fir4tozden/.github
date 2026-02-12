@@ -1,4 +1,4 @@
-# Hi, I'm Fırat Özden! <img src="https://komarev.com/ghpvc?username=fir4tozden&label=Profile%20Views"/>
+# Hi, I'm Fırat Özden!
 
 ### About me 🪧
 
