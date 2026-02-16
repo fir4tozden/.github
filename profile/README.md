@@ -10,7 +10,7 @@ The first language I started was JavaScript, I still continue with this language
 
 ### These are my skills 🎯
 
-[![Skills](https://skillicons.dev/icons?i=ubuntu,arch,ts,js,bun,nodejs,npm,elysia,express,prisma,mongodb,redis,rabbitmq,docker,firebase,cloudflare,nextjs,react,tailwind,github,githubactions,git&perline=10&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,bun,nodejs,npm,elysia,express,prisma,mongodb,redis,rabbitmq,docker,firebase,cloudflare,nextjs,react,tailwind,github,githubactions,git&perline=10&theme=dark)](https://skillicons.dev)
 
 ### This is our last project 💻
 
