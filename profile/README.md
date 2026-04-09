@@ -28,5 +28,4 @@ Portable and simple schemas for property validation.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fir4tozden&show_icons=false&theme=transparent"/>
 
-
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) Star this project!
